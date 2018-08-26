@@ -1,6 +1,6 @@
 "use strict";
 
-document.addEventListener("DOMContentLoaded", function(){
+window.addEventListener("load", function(){
 
 let svgContainer = document.getElementById("svgContainer");
 console.log(svgContainer);
